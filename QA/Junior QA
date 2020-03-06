@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
+<head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8" />
 <title>Название сайта</title>
 </head>
 <body>
+Verification: ca23dc4add39ceb8
 <!--Создаём таблицу контейнер, которой задаём следующее
 оформление:
 border="1" - рамка вокруг контейнера. Увеличив число, можно увеличить толщину рамки.
